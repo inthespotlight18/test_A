@@ -1,0 +1,17 @@
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\webDaniil.exe.config
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\webDaniil.exe
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\webDaniil.pdb
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\wcfDaniil.dll
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\System.Web.Http.dll
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\wcfDaniil.pdb
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\System.Web.Http.xml
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\test_webDaniil.csproj.AssemblyReference.cache
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\test_webDaniil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\test_webDaniil.csproj.CoreCompileInputs.cache
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\test_webDaniil.csproj.CopyComplete
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\webDaniil.exe
+C:\Users\Daniil Zlenko\Documents\C#\test\webDaniil\obj\Debug\webDaniil.pdb
